@@ -1,0 +1,10 @@
+Numpy :Ceci est une bibliothèque mathématique. 
+Possède un puissant objet tableau à N dimensions,
+une algèbre linéaire, une transformée de Fourier, etc.
+
+Pandas : Cette bibliothèque est utilisée pour les opérations de données structurées, 
+comme l'importation de fichiers CSV, la création de dataframes et la préparation des données
+
+Matplotlib : Cette bibliothèque est utilisée pour la visualisation des données.
+
+SciPy : Cette bibliothèque contient des modules d'algèbre linéaire.

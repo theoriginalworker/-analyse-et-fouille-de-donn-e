@@ -1,0 +1,17 @@
+import pandas as pd
+
+d = {'col1': [1, 2, 3, 4, 5], 
+     'col2': [6, 7, 8, 9, 10], 
+     'col3': [11, 12, 13, 14, 15]}
+
+df = pd.DataFrame(d)
+print(df)
+
+resultat:
+    col1   col2  col3
+0     1     4     7
+1     2     5     8
+2     3     6    12
+3     4     9     1
+4     7     5    11
+
